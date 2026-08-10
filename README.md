@@ -1,7 +1,3 @@
-# skhebo-learning-lab
-
-My technology learning laboratory: programming, AI, cloud, cybersecurity, data, and automation.
-
 # Skhebo Learning Lab
 
 My personal technology learning laboratory.
