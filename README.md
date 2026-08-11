@@ -25,3 +25,19 @@ Learn technology by building real projects and documenting my progress.
 ## Projects
 
 Coming soon.
+
+## Python Learning
+
+### 01 - Variables and Calculations
+
+What I learned:
+
+- Variables
+- Strings
+- Integers
+- `print()`
+- Addition
+- Multiplication
+- Basic calculations
+- f-strings
+- Using variables inside calculations
